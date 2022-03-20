@@ -12,6 +12,7 @@ window.Config = {
   ApiKeys: [
     'm791000515-0c9a10a827f55121dfd7a88a',
     'm791000526-cec39f5c53db1d8a9335bdfc',
+    'm791021389-48c7dfd780c082a50bde64dd',
   ],
 
   // 是否显示监测站点的链接
