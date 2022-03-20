@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '凛空の小屋 服务器状态监控',
+  SiteName: '晓晨の小屋 服务器状态监控',
 
   // 站点链接
   SiteUrl: '/',
@@ -25,12 +25,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '晓空blog',
-      url: 'https://blog.moeworld.tech/'
+      text: '晓晨blog',
+      url: 'https://www.axcz.cn/'
     },
     {
-      text: '关于',
-      url: 'http://about.rcraft.ml'
+      text: '晓晨图床',
+      url: 'https://img.nmb.al'
     }
   ]
 };
