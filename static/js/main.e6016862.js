@@ -9571,7 +9571,7 @@ function(e, t, n) {
                         custom_uptime_ranges: a.join("-")
                     },
                     e.next = 11,
-                    de.a.post("https://api.uptimerobot.com/v2/getMonitors", s, {
+                    de.a.post("https://uptimerobot.xiaochen.workers.dev/v2/getMonitors", s, {
                     /*de.a.post("https://uptimerobot.xiaochen.workers.dev", s, {*/
                         timeout: 1e4
                     }).then((function(e) {
