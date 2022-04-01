@@ -29,7 +29,7 @@ window.Config = {
     },
     {
       text: '晓晨图床',
-      url: 'https://img.nmb.al'
+      url: 'https://pic.axcz.cn/'
     }
   ]
 };
