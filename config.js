@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '晓晨の小屋 服务器状态监控',
+  SiteName: '海外看旗下 服务器状态监控',
 
   // 站点链接
   SiteUrl: '/',
@@ -24,12 +24,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '晓晨blog',
-      url: 'https://www.axcz.cn/'
+      text: '海外看影院',
+      url: 'https://www.haiwaiys.cc/'
     },
     {
-      text: '晓晨图床',
-      url: 'https://pic.axcz.cn/'
+      text: '看AV',
+      url: 'https://www.kanav.one/'
     }
   ]
 };
